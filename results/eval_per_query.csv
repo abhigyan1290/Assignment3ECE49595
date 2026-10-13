@@ -1,0 +1,171 @@
+model,task,mode,ensemble,label,query,P@1,P@3,P@5,R@10,MRR,mAP,chance
+openai/clip-vit-base-patch32,item name,full,False,Bag,bag,1.0,1.0,1.0,1.0,1.0,0.9704861111111112,0.16
+openai/clip-vit-base-patch32,item name,full,False,Bottle,water bottle,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch32,item name,full,False,Glasses,glasses,1.0,1.0,1.0,0.7272727272727273,1.0,0.9077604073382289,0.22
+openai/clip-vit-base-patch32,item name,full,False,Phone,phone,1.0,1.0,1.0,0.8571428571428571,1.0,0.8988095238095238,0.14
+openai/clip-vit-base-patch32,item name,full,False,Watch,watch,1.0,1.0,1.0,0.75,1.0,0.8573190789473684,0.16
+openai/clip-vit-base-patch32,item name,full,True,Bag,bag,1.0,1.0,1.0,0.875,1.0,0.8618055555555556,0.16
+openai/clip-vit-base-patch32,item name,full,True,Bottle,water bottle,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch32,item name,full,True,Glasses,glasses,1.0,0.3333333333333333,0.4,0.18181818181818182,1.0,0.29654807596542,0.22
+openai/clip-vit-base-patch32,item name,full,True,Phone,phone,1.0,1.0,1.0,0.8571428571428571,1.0,0.8941798941798942,0.14
+openai/clip-vit-base-patch32,item name,full,True,Watch,watch,1.0,1.0,1.0,0.875,1.0,0.9044117647058824,0.16
+openai/clip-vit-base-patch32,lost report,full,False,Bag,I lost my backpack in the library,1.0,1.0,1.0,0.75,1.0,0.850927033492823,0.16
+openai/clip-vit-base-patch32,lost report,full,False,Bag,left my bag in the classroom,1.0,1.0,1.0,0.875,1.0,0.9305555555555556,0.16
+openai/clip-vit-base-patch32,lost report,full,False,Bag,"missing a shoulder bag, probably on a bench",1.0,1.0,0.8,0.875,1.0,0.8757326007326007,0.16
+openai/clip-vit-base-patch32,lost report,full,False,Bottle,I left my water bottle in lecture,1.0,1.0,0.8,0.75,1.0,0.8078754578754579,0.16
+openai/clip-vit-base-patch32,lost report,full,False,Bottle,lost a reusable metal bottle,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch32,lost report,full,False,Bottle,my drink bottle is missing,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch32,lost report,full,False,Glasses,lost my prescription glasses,1.0,1.0,0.8,0.45454545454545453,1.0,0.6545181255526084,0.22
+openai/clip-vit-base-patch32,lost report,full,False,Glasses,I can't find my sunglasses,1.0,0.6666666666666666,0.6,0.36363636363636365,1.0,0.47896577773444365,0.22
+openai/clip-vit-base-patch32,lost report,full,False,Glasses,missing eyeglasses with thin frames,1.0,1.0,0.8,0.5454545454545454,1.0,0.7464207905384375,0.22
+openai/clip-vit-base-patch32,lost report,full,False,Phone,I lost my phone in the dining hall,1.0,0.3333333333333333,0.4,0.42857142857142855,1.0,0.44514295531455367,0.14
+openai/clip-vit-base-patch32,lost report,full,False,Phone,my smartphone fell out of my pocket,1.0,1.0,1.0,0.8571428571428571,1.0,0.9285714285714286,0.14
+openai/clip-vit-base-patch32,lost report,full,False,Phone,missing cell phone with a case,1.0,1.0,1.0,0.8571428571428571,1.0,0.8584656084656085,0.14
+openai/clip-vit-base-patch32,lost report,full,False,Watch,I lost my wristwatch at the gym,1.0,1.0,1.0,0.75,1.0,0.8108485772357724,0.16
+openai/clip-vit-base-patch32,lost report,full,False,Watch,left my watch by the sink,1.0,1.0,1.0,0.875,1.0,0.8638157894736842,0.16
+openai/clip-vit-base-patch32,lost report,full,False,Watch,missing a smartwatch,1.0,1.0,1.0,0.75,1.0,0.912878787878788,0.16
+openai/clip-vit-base-patch32,item name,grid,True,Bag,bag,1.0,1.0,1.0,0.875,1.0,0.8891369047619047,0.16
+openai/clip-vit-base-patch32,item name,grid,True,Bottle,water bottle,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch32,item name,grid,True,Glasses,glasses,0.0,0.0,0.0,0.09090909090909091,0.14285714285714285,0.1945184881135475,0.22
+openai/clip-vit-base-patch32,item name,grid,True,Phone,phone,1.0,1.0,1.0,0.8571428571428571,1.0,0.880952380952381,0.14
+openai/clip-vit-base-patch32,item name,grid,True,Watch,watch,1.0,1.0,1.0,0.75,1.0,0.8040097822074567,0.16
+openai/clip-vit-base-patch32,lost report,grid,False,Bag,I lost my backpack in the library,1.0,1.0,1.0,0.75,1.0,0.8351449275362318,0.16
+openai/clip-vit-base-patch32,lost report,grid,False,Bag,left my bag in the classroom,1.0,1.0,1.0,0.75,1.0,0.912878787878788,0.16
+openai/clip-vit-base-patch32,lost report,grid,False,Bag,"missing a shoulder bag, probably on a bench",1.0,1.0,0.8,0.875,1.0,0.833531746031746,0.16
+openai/clip-vit-base-patch32,lost report,grid,False,Bottle,I left my water bottle in lecture,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch32,lost report,grid,False,Bottle,lost a reusable metal bottle,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch32,lost report,grid,False,Bottle,my drink bottle is missing,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch32,lost report,grid,False,Glasses,lost my prescription glasses,1.0,1.0,0.8,0.45454545454545453,1.0,0.6143241906012804,0.22
+openai/clip-vit-base-patch32,lost report,grid,False,Glasses,I can't find my sunglasses,1.0,0.3333333333333333,0.4,0.2727272727272727,1.0,0.3735106326662304,0.22
+openai/clip-vit-base-patch32,lost report,grid,False,Glasses,missing eyeglasses with thin frames,1.0,1.0,1.0,0.6363636363636364,1.0,0.8139668365533832,0.22
+openai/clip-vit-base-patch32,lost report,grid,False,Phone,I lost my phone in the dining hall,1.0,0.6666666666666666,0.4,0.42857142857142855,1.0,0.43716332686920917,0.14
+openai/clip-vit-base-patch32,lost report,grid,False,Phone,my smartphone fell out of my pocket,1.0,1.0,1.0,0.8571428571428571,1.0,0.8941798941798942,0.14
+openai/clip-vit-base-patch32,lost report,grid,False,Phone,missing cell phone with a case,1.0,1.0,1.0,0.8571428571428571,1.0,0.8508403361344538,0.14
+openai/clip-vit-base-patch32,lost report,grid,False,Watch,I lost my wristwatch at the gym,1.0,1.0,1.0,0.75,1.0,0.8029891304347826,0.16
+openai/clip-vit-base-patch32,lost report,grid,False,Watch,left my watch by the sink,1.0,1.0,0.8,0.625,1.0,0.7380230880230881,0.16
+openai/clip-vit-base-patch32,lost report,grid,False,Watch,missing a smartwatch,0.0,0.6666666666666666,0.8,0.75,0.5,0.6616788103201147,0.16
+openai/clip-vit-base-patch32,item name,box,True,Bag,bag,1.0,1.0,1.0,1.0,1.0,0.975,0.16
+openai/clip-vit-base-patch32,item name,box,True,Bottle,water bottle,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch32,item name,box,True,Glasses,glasses,1.0,1.0,1.0,0.8181818181818182,1.0,0.8587779973649539,0.22
+openai/clip-vit-base-patch32,item name,box,True,Phone,phone,1.0,1.0,1.0,0.8571428571428571,1.0,0.884920634920635,0.14
+openai/clip-vit-base-patch32,item name,box,True,Watch,watch,1.0,1.0,1.0,0.875,1.0,0.902027027027027,0.16
+openai/clip-vit-base-patch32,lost report,box,False,Bag,I lost my backpack in the library,1.0,1.0,0.8,0.75,1.0,0.7855357142857143,0.16
+openai/clip-vit-base-patch32,lost report,box,False,Bag,left my bag in the classroom,1.0,1.0,1.0,0.875,1.0,0.9305555555555556,0.16
+openai/clip-vit-base-patch32,lost report,box,False,Bag,"missing a shoulder bag, probably on a bench",1.0,1.0,1.0,0.875,1.0,0.9427083333333334,0.16
+openai/clip-vit-base-patch32,lost report,box,False,Bottle,I left my water bottle in lecture,1.0,1.0,1.0,0.875,1.0,0.9427083333333334,0.16
+openai/clip-vit-base-patch32,lost report,box,False,Bottle,lost a reusable metal bottle,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch32,lost report,box,False,Bottle,my drink bottle is missing,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch32,lost report,box,False,Glasses,lost my prescription glasses,1.0,1.0,1.0,0.8181818181818182,1.0,0.8910408432147563,0.22
+openai/clip-vit-base-patch32,lost report,box,False,Glasses,I can't find my sunglasses,1.0,1.0,1.0,0.8181818181818182,1.0,0.893097643097643,0.22
+openai/clip-vit-base-patch32,lost report,box,False,Glasses,missing eyeglasses with thin frames,1.0,1.0,1.0,0.8181818181818182,1.0,0.8871192745873053,0.22
+openai/clip-vit-base-patch32,lost report,box,False,Phone,I lost my phone in the dining hall,0.0,0.3333333333333333,0.2,0.2857142857142857,0.5,0.2916250416250416,0.14
+openai/clip-vit-base-patch32,lost report,box,False,Phone,my smartphone fell out of my pocket,1.0,1.0,1.0,0.8571428571428571,1.0,0.9404761904761905,0.14
+openai/clip-vit-base-patch32,lost report,box,False,Phone,missing cell phone with a case,1.0,1.0,0.8,0.7142857142857143,1.0,0.7771560236998025,0.14
+openai/clip-vit-base-patch32,lost report,box,False,Watch,I lost my wristwatch at the gym,1.0,1.0,0.8,0.75,1.0,0.8284663865546218,0.16
+openai/clip-vit-base-patch32,lost report,box,False,Watch,left my watch by the sink,1.0,1.0,1.0,0.875,1.0,0.8499458874458874,0.16
+openai/clip-vit-base-patch32,lost report,box,False,Watch,missing a smartwatch,1.0,1.0,1.0,0.875,1.0,0.9464285714285714,0.16
+openai/clip-vit-base-patch32,image->image,full,False,Glasses,20221001_172344_jpg.rf.f2a2ece75d1d27ba13b3ba9c4a39ee36.jpg,1.0,1.0,1.0,0.8181818181818182,1.0,0.9415584415584416,0.22
+openai/clip-vit-base-patch32,image->image,full,False,Watch,20240417_182147_jpg.rf.2ff5b76ed667b1497f6282a5f784d663.jpg,1.0,1.0,0.8,0.625,1.0,0.7696553954175905,0.16
+openai/clip-vit-base-patch32,image->image,full,False,Bag,20240417_173451_jpg.rf.2beda6a6b8d36e1a2aa64a6876600b1f.jpg,1.0,1.0,1.0,0.875,1.0,0.9,0.16
+openai/clip-vit-base-patch32,image->image,full,False,Glasses,20200116_200251_jpg.rf.f3f7e0fdb0dd93a0c75b0330308a47d5.jpg,1.0,1.0,1.0,0.8181818181818182,1.0,0.9633264462809916,0.22
+openai/clip-vit-base-patch32,image->image,full,False,Bottle,20240417_183828_jpg.rf.9032f34f3c99231cc2b14d3640ce292a.jpg,1.0,1.0,0.8,0.625,1.0,0.7441928475935828,0.16
+openai/clip-vit-base-patch32,text+image (a=0.5),full,False,Glasses,lost my prescription glasses,1.0,1.0,1.0,0.7272727272727273,1.0,0.9339761248852159,0.22
+openai/clip-vit-base-patch32,text+image (a=0.5),full,False,Watch,I lost my wristwatch at the gym,1.0,1.0,1.0,0.75,1.0,0.836890243902439,0.16
+openai/clip-vit-base-patch32,text+image (a=0.5),full,False,Bag,I lost my backpack in the library,1.0,1.0,1.0,1.0,1.0,0.9415178571428571,0.16
+openai/clip-vit-base-patch32,text+image (a=0.5),full,False,Glasses,lost my prescription glasses,1.0,1.0,1.0,0.8181818181818182,1.0,0.9516705516705518,0.22
+openai/clip-vit-base-patch32,text+image (a=0.5),full,False,Bottle,I left my water bottle in lecture,1.0,1.0,0.8,0.75,1.0,0.8271645021645022,0.16
+openai/clip-vit-base-patch32,image->image,grid,False,Glasses,20221001_172344_jpg.rf.f2a2ece75d1d27ba13b3ba9c4a39ee36.jpg,1.0,1.0,1.0,0.9090909090909091,1.0,0.986013986013986,0.22
+openai/clip-vit-base-patch32,image->image,grid,False,Watch,20240417_182147_jpg.rf.2ff5b76ed667b1497f6282a5f784d663.jpg,1.0,1.0,1.0,0.625,1.0,0.7719233147804576,0.16
+openai/clip-vit-base-patch32,image->image,grid,False,Bag,20240417_173451_jpg.rf.2beda6a6b8d36e1a2aa64a6876600b1f.jpg,1.0,1.0,1.0,0.875,1.0,0.9416666666666667,0.16
+openai/clip-vit-base-patch32,image->image,grid,False,Glasses,20200116_200251_jpg.rf.f3f7e0fdb0dd93a0c75b0330308a47d5.jpg,1.0,1.0,1.0,0.8181818181818182,1.0,0.970862470862471,0.22
+openai/clip-vit-base-patch32,image->image,grid,False,Bottle,20240417_183828_jpg.rf.9032f34f3c99231cc2b14d3640ce292a.jpg,1.0,1.0,1.0,0.875,1.0,0.9,0.16
+openai/clip-vit-base-patch32,text+image (a=0.5),grid,False,Glasses,lost my prescription glasses,1.0,1.0,1.0,0.7272727272727273,1.0,0.9320512820512821,0.22
+openai/clip-vit-base-patch32,text+image (a=0.5),grid,False,Watch,I lost my wristwatch at the gym,1.0,1.0,1.0,0.75,1.0,0.8259640957446809,0.16
+openai/clip-vit-base-patch32,text+image (a=0.5),grid,False,Bag,I lost my backpack in the library,1.0,1.0,1.0,1.0,1.0,0.975,0.16
+openai/clip-vit-base-patch32,text+image (a=0.5),grid,False,Glasses,lost my prescription glasses,1.0,1.0,1.0,0.8181818181818182,1.0,0.9266575529733424,0.22
+openai/clip-vit-base-patch32,text+image (a=0.5),grid,False,Bottle,I left my water bottle in lecture,1.0,1.0,1.0,0.875,1.0,0.9659090909090909,0.16
+openai/clip-vit-base-patch16,item name,full,False,Bag,bag,1.0,1.0,1.0,0.75,1.0,0.8728632478632479,0.16
+openai/clip-vit-base-patch16,item name,full,False,Bottle,water bottle,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch16,item name,full,False,Glasses,glasses,1.0,1.0,0.8,0.7272727272727273,1.0,0.8037743218573258,0.22
+openai/clip-vit-base-patch16,item name,full,False,Phone,phone,1.0,1.0,1.0,0.8571428571428571,1.0,0.8941798941798942,0.14
+openai/clip-vit-base-patch16,item name,full,False,Watch,watch,1.0,1.0,1.0,0.75,1.0,0.8206908831908832,0.16
+openai/clip-vit-base-patch16,item name,full,True,Bag,bag,1.0,1.0,0.8,0.875,1.0,0.8150000000000001,0.16
+openai/clip-vit-base-patch16,item name,full,True,Bottle,water bottle,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch16,item name,full,True,Glasses,glasses,0.0,0.0,0.0,0.09090909090909091,0.1,0.19932274677752562,0.22
+openai/clip-vit-base-patch16,item name,full,True,Phone,phone,1.0,1.0,1.0,0.8571428571428571,1.0,0.8841698841698842,0.14
+openai/clip-vit-base-patch16,item name,full,True,Watch,watch,1.0,1.0,1.0,0.75,1.0,0.8485576923076923,0.16
+openai/clip-vit-base-patch16,lost report,full,False,Bag,I lost my backpack in the library,1.0,1.0,0.8,0.75,1.0,0.7858333333333333,0.16
+openai/clip-vit-base-patch16,lost report,full,False,Bag,left my bag in the classroom,1.0,1.0,1.0,0.75,1.0,0.8222222222222223,0.16
+openai/clip-vit-base-patch16,lost report,full,False,Bag,"missing a shoulder bag, probably on a bench",1.0,1.0,1.0,0.75,1.0,0.875,0.16
+openai/clip-vit-base-patch16,lost report,full,False,Bottle,I left my water bottle in lecture,1.0,1.0,1.0,0.875,1.0,0.9129464285714285,0.16
+openai/clip-vit-base-patch16,lost report,full,False,Bottle,lost a reusable metal bottle,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch16,lost report,full,False,Bottle,my drink bottle is missing,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch16,lost report,full,False,Glasses,lost my prescription glasses,1.0,0.6666666666666666,0.6,0.5454545454545454,1.0,0.6280828861391521,0.22
+openai/clip-vit-base-patch16,lost report,full,False,Glasses,I can't find my sunglasses,0.0,0.3333333333333333,0.2,0.18181818181818182,0.5,0.2741927915614852,0.22
+openai/clip-vit-base-patch16,lost report,full,False,Glasses,missing eyeglasses with thin frames,1.0,1.0,0.8,0.5454545454545454,1.0,0.7026694417631654,0.22
+openai/clip-vit-base-patch16,lost report,full,False,Phone,I lost my phone in the dining hall,1.0,0.6666666666666666,0.6,0.42857142857142855,1.0,0.5076933404940923,0.14
+openai/clip-vit-base-patch16,lost report,full,False,Phone,my smartphone fell out of my pocket,1.0,1.0,1.0,0.8571428571428571,1.0,0.8904761904761905,0.14
+openai/clip-vit-base-patch16,lost report,full,False,Phone,missing cell phone with a case,1.0,1.0,1.0,0.7142857142857143,1.0,0.8124778447359092,0.14
+openai/clip-vit-base-patch16,lost report,full,False,Watch,I lost my wristwatch at the gym,1.0,1.0,1.0,0.75,1.0,0.8652597402597403,0.16
+openai/clip-vit-base-patch16,lost report,full,False,Watch,left my watch by the sink,1.0,1.0,1.0,0.75,1.0,0.858957219251337,0.16
+openai/clip-vit-base-patch16,lost report,full,False,Watch,missing a smartwatch,1.0,1.0,1.0,0.75,1.0,0.8607859531772575,0.16
+openai/clip-vit-base-patch16,item name,grid,True,Bag,bag,1.0,1.0,0.8,0.75,1.0,0.8070454545454546,0.16
+openai/clip-vit-base-patch16,item name,grid,True,Bottle,water bottle,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch16,item name,grid,True,Glasses,glasses,0.0,0.0,0.2,0.09090909090909091,0.25,0.21125889211047844,0.22
+openai/clip-vit-base-patch16,item name,grid,True,Phone,phone,1.0,1.0,1.0,0.8571428571428571,1.0,0.8788819875776398,0.14
+openai/clip-vit-base-patch16,item name,grid,True,Watch,watch,1.0,1.0,1.0,0.875,1.0,0.8811141304347826,0.16
+openai/clip-vit-base-patch16,lost report,grid,False,Bag,I lost my backpack in the library,0.0,0.6666666666666666,0.6,0.625,0.5,0.5733901515151515,0.16
+openai/clip-vit-base-patch16,lost report,grid,False,Bag,left my bag in the classroom,1.0,1.0,0.8,0.625,1.0,0.7366776315789474,0.16
+openai/clip-vit-base-patch16,lost report,grid,False,Bag,"missing a shoulder bag, probably on a bench",1.0,1.0,0.8,0.75,1.0,0.7972222222222222,0.16
+openai/clip-vit-base-patch16,lost report,grid,False,Bottle,I left my water bottle in lecture,1.0,1.0,1.0,1.0,1.0,0.9861111111111112,0.16
+openai/clip-vit-base-patch16,lost report,grid,False,Bottle,lost a reusable metal bottle,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch16,lost report,grid,False,Bottle,my drink bottle is missing,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch16,lost report,grid,False,Glasses,lost my prescription glasses,1.0,0.3333333333333333,0.4,0.5454545454545454,1.0,0.5407874260815437,0.22
+openai/clip-vit-base-patch16,lost report,grid,False,Glasses,I can't find my sunglasses,0.0,0.0,0.2,0.18181818181818182,0.2,0.21645157435869902,0.22
+openai/clip-vit-base-patch16,lost report,grid,False,Glasses,missing eyeglasses with thin frames,1.0,1.0,1.0,0.7272727272727273,1.0,0.8408813408813409,0.22
+openai/clip-vit-base-patch16,lost report,grid,False,Phone,I lost my phone in the dining hall,1.0,0.6666666666666666,0.6,0.42857142857142855,1.0,0.48641774891774897,0.14
+openai/clip-vit-base-patch16,lost report,grid,False,Phone,my smartphone fell out of my pocket,1.0,1.0,1.0,0.8571428571428571,1.0,0.880952380952381,0.14
+openai/clip-vit-base-patch16,lost report,grid,False,Phone,missing cell phone with a case,1.0,1.0,1.0,0.8571428571428571,1.0,0.8874458874458874,0.14
+openai/clip-vit-base-patch16,lost report,grid,False,Watch,I lost my wristwatch at the gym,1.0,1.0,1.0,0.875,1.0,0.8826308139534884,0.16
+openai/clip-vit-base-patch16,lost report,grid,False,Watch,left my watch by the sink,1.0,1.0,0.8,0.875,1.0,0.8024801587301588,0.16
+openai/clip-vit-base-patch16,lost report,grid,False,Watch,missing a smartwatch,1.0,1.0,1.0,0.875,1.0,0.8850160256410257,0.16
+openai/clip-vit-base-patch16,item name,box,True,Bag,bag,1.0,1.0,1.0,0.875,1.0,0.9502840909090909,0.16
+openai/clip-vit-base-patch16,item name,box,True,Bottle,water bottle,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch16,item name,box,True,Glasses,glasses,1.0,1.0,1.0,0.8181818181818182,1.0,0.8641642909935594,0.22
+openai/clip-vit-base-patch16,item name,box,True,Phone,phone,1.0,1.0,1.0,0.8571428571428571,1.0,0.9006211180124224,0.14
+openai/clip-vit-base-patch16,item name,box,True,Watch,watch,1.0,1.0,1.0,0.75,1.0,0.8558612440191388,0.16
+openai/clip-vit-base-patch16,lost report,box,False,Bag,I lost my backpack in the library,1.0,1.0,1.0,0.875,1.0,0.8280913978494624,0.16
+openai/clip-vit-base-patch16,lost report,box,False,Bag,left my bag in the classroom,1.0,1.0,1.0,0.75,1.0,0.8651315789473684,0.16
+openai/clip-vit-base-patch16,lost report,box,False,Bag,"missing a shoulder bag, probably on a bench",1.0,1.0,1.0,0.875,1.0,0.9305555555555556,0.16
+openai/clip-vit-base-patch16,lost report,box,False,Bottle,I left my water bottle in lecture,1.0,1.0,1.0,0.875,1.0,0.8926767676767676,0.16
+openai/clip-vit-base-patch16,lost report,box,False,Bottle,lost a reusable metal bottle,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch16,lost report,box,False,Bottle,my drink bottle is missing,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch16,lost report,box,False,Glasses,lost my prescription glasses,1.0,1.0,1.0,0.8181818181818182,1.0,0.8981191222570533,0.22
+openai/clip-vit-base-patch16,lost report,box,False,Glasses,I can't find my sunglasses,1.0,1.0,1.0,0.8181818181818182,1.0,0.8753787878787879,0.22
+openai/clip-vit-base-patch16,lost report,box,False,Glasses,missing eyeglasses with thin frames,1.0,1.0,1.0,0.8181818181818182,1.0,0.8827599461848934,0.22
+openai/clip-vit-base-patch16,lost report,box,False,Phone,I lost my phone in the dining hall,1.0,0.6666666666666666,0.4,0.42857142857142855,1.0,0.4215554760430406,0.14
+openai/clip-vit-base-patch16,lost report,box,False,Phone,my smartphone fell out of my pocket,1.0,1.0,1.0,1.0,1.0,0.9682539682539683,0.14
+openai/clip-vit-base-patch16,lost report,box,False,Phone,missing cell phone with a case,1.0,1.0,0.8,0.8571428571428571,1.0,0.8309523809523809,0.14
+openai/clip-vit-base-patch16,lost report,box,False,Watch,I lost my wristwatch at the gym,1.0,1.0,1.0,0.875,1.0,0.9260416666666667,0.16
+openai/clip-vit-base-patch16,lost report,box,False,Watch,left my watch by the sink,1.0,1.0,1.0,0.875,1.0,0.891633064516129,0.16
+openai/clip-vit-base-patch16,lost report,box,False,Watch,missing a smartwatch,1.0,1.0,1.0,0.875,1.0,0.896412037037037,0.16
+openai/clip-vit-base-patch16,image->image,full,False,Glasses,20221001_172344_jpg.rf.f2a2ece75d1d27ba13b3ba9c4a39ee36.jpg,1.0,1.0,1.0,0.8181818181818182,1.0,0.9403069153069155,0.22
+openai/clip-vit-base-patch16,image->image,full,False,Watch,20240417_182147_jpg.rf.2ff5b76ed667b1497f6282a5f784d663.jpg,1.0,1.0,1.0,0.75,1.0,0.822747183979975,0.16
+openai/clip-vit-base-patch16,image->image,full,False,Bag,20240417_173451_jpg.rf.2beda6a6b8d36e1a2aa64a6876600b1f.jpg,1.0,1.0,1.0,1.0,1.0,0.9472222222222222,0.16
+openai/clip-vit-base-patch16,image->image,full,False,Glasses,20200116_200251_jpg.rf.f3f7e0fdb0dd93a0c75b0330308a47d5.jpg,1.0,1.0,1.0,0.7272727272727273,1.0,0.9184458218549129,0.22
+openai/clip-vit-base-patch16,image->image,full,False,Bottle,20240417_183828_jpg.rf.9032f34f3c99231cc2b14d3640ce292a.jpg,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch16,text+image (a=0.5),full,False,Glasses,lost my prescription glasses,1.0,1.0,1.0,0.7272727272727273,1.0,0.8942941116854158,0.22
+openai/clip-vit-base-patch16,text+image (a=0.5),full,False,Watch,I lost my wristwatch at the gym,1.0,1.0,1.0,0.75,1.0,0.852801268498943,0.16
+openai/clip-vit-base-patch16,text+image (a=0.5),full,False,Bag,I lost my backpack in the library,1.0,1.0,1.0,0.875,1.0,0.9208333333333334,0.16
+openai/clip-vit-base-patch16,text+image (a=0.5),full,False,Glasses,lost my prescription glasses,1.0,1.0,1.0,0.7272727272727273,1.0,0.8905856988860941,0.22
+openai/clip-vit-base-patch16,text+image (a=0.5),full,False,Bottle,I left my water bottle in lecture,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch16,image->image,grid,False,Glasses,20221001_172344_jpg.rf.f2a2ece75d1d27ba13b3ba9c4a39ee36.jpg,1.0,1.0,1.0,0.9090909090909091,1.0,0.9924242424242423,0.22
+openai/clip-vit-base-patch16,image->image,grid,False,Watch,20240417_182147_jpg.rf.2ff5b76ed667b1497f6282a5f784d663.jpg,1.0,1.0,1.0,0.75,1.0,0.846172480620155,0.16
+openai/clip-vit-base-patch16,image->image,grid,False,Bag,20240417_173451_jpg.rf.2beda6a6b8d36e1a2aa64a6876600b1f.jpg,1.0,1.0,1.0,1.0,1.0,0.975,0.16
+openai/clip-vit-base-patch16,image->image,grid,False,Glasses,20200116_200251_jpg.rf.f3f7e0fdb0dd93a0c75b0330308a47d5.jpg,1.0,1.0,1.0,0.8181818181818182,1.0,0.9777495232040686,0.22
+openai/clip-vit-base-patch16,image->image,grid,False,Bottle,20240417_183828_jpg.rf.9032f34f3c99231cc2b14d3640ce292a.jpg,1.0,1.0,1.0,1.0,1.0,1.0,0.16
+openai/clip-vit-base-patch16,text+image (a=0.5),grid,False,Glasses,lost my prescription glasses,1.0,1.0,1.0,0.8181818181818182,1.0,0.9722550177095631,0.22
+openai/clip-vit-base-patch16,text+image (a=0.5),grid,False,Watch,I lost my wristwatch at the gym,1.0,1.0,1.0,0.875,1.0,0.8826308139534884,0.16
+openai/clip-vit-base-patch16,text+image (a=0.5),grid,False,Bag,I lost my backpack in the library,1.0,1.0,1.0,0.75,1.0,0.895021645021645,0.16
+openai/clip-vit-base-patch16,text+image (a=0.5),grid,False,Glasses,lost my prescription glasses,1.0,1.0,1.0,0.8181818181818182,1.0,0.9386724386724385,0.22
+openai/clip-vit-base-patch16,text+image (a=0.5),grid,False,Bottle,I left my water bottle in lecture,1.0,1.0,1.0,1.0,1.0,1.0,0.16
