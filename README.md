@@ -1,1 +1,3 @@
-### [Screen recording video proof link](ex5_proof.mp4)
+### Screen recording proof:
+
+<video src="https://files.catbox.moe/mrxr2i.mp4" width="100%" controls></video>
