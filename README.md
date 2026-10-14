@@ -1,3 +1,1 @@
-Screen recording proof:
-
-<video src="ex5 proof.mp4" width="100%" controls></video>
+### [Screen recording video proof link](ex5_proof.mp4)
